@@ -27,8 +27,7 @@ public:
                     start = mid+1;
                 }
             }
-            
-            if(mid%2 != 0){
+            else{
                 if(nums[mid] == nums[mid-1]){
                     start = mid+1;
                 }
