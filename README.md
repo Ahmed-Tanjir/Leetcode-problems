@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/1552-magnetic-force-between-two-balls) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
