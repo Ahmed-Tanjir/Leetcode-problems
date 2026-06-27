@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ahmed-Tanjir/Leetcode-problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
